@@ -1,15 +1,25 @@
 #include "main.h"
-
 /**
- * _isupper - a function that checks for uppercase character
- * @c: input
- * Return: 1 if c is uppercase, 0 otherwise
- */
-int _isupper(int c)
+  * print_line - Draws a straight line according to parameter
+  * @n: The number of lines to draw
+  *
+  * Return: empty
+  */
+void print_line(int n)
 {
-if ((c >= 'A') && (c <= 'Z'))
-return (1);
-else
-return (0);
-}
+	int x;
 
+	if (n <= 0)
+	{
+		_putchar('\n');
+	}
+	else
+	{
+		for (x = 0; x < n; x++)
+		{
+			_putchar(95);
+		}
+
+		_putchar('\n');
+	}
+}
