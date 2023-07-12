@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "maiin.h"
+#include "main.h"
 /**
  * main - Entry Point
  * @argc: arguments
