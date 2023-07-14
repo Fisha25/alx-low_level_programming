@@ -20,6 +20,7 @@ int main(void)
 	{	
 	       	low=tolower(low);
 		putchar(low);
+		break;
 }
 }
 putchar('\n');
