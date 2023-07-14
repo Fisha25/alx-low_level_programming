@@ -12,12 +12,17 @@ int main(void)
 	char low;
 
 	for (low = 'a'; low <= 'z'; low++)
+	{
 		low=tolower(low);
 		putchar(low);
 	for (low = 'A'; low <= 'Z'; low++)
-		 low=tolower(low);
+	
+	{	
+	       	low=tolower(low);
 		putchar(low);
-		putchar('\n');
+}
+}
+putchar('\n');
 
 	return (0);
 }
