@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-    int i
+    int i;
     int j;
 
     i = ABS(-98) * 10;
