@@ -1,0 +1,34 @@
+<!DOCTYPE html><html  data-capo=""><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/_nuxt/entry.DzIFP9A_.css">
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/C7LhIxsV.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/navBar.CSO7HzQp.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/index.vbuJ7WPd.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/autoComplete.BQ4zuAy-.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/tooltip.1YYPPjIe.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CpFWRDT3.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/B5-4M1K7.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BD0VzV8I.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CH-2I4gw.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/f_MyPiOL.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C49LitLj.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CcEQ5mwg.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BVXOn6tQ.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CZhdkjDJ.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BPJbjiKS.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BYfvzU9d.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DAeeaNeu.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/OHJT-RdM.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Cvsihkz0.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D5-GERat.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Cij1ntPt.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/AmpgdB4F.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Bp6Trnc5.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D1FEeK6p.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/error-404.ygbHJO5Q.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CYll3u_z.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BCFPJU85.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/error-500.B11Ibp8J.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Bz0cwNaP.js">
+<script type="module" src="/_nuxt/C7LhIxsV.js" crossorigin></script></head><body><div id="__nuxt"></div><div id="teleports"></div><script type="application/json" data-nuxt-data="nuxt-app" data-ssr="false" id="__NUXT_DATA__">[{"serverRendered":1},false]</script>
+<script>window.__NUXT__={};window.__NUXT__.config={public:{baseURL:"https://etw-pbx-cloud1.websprix.com/api/v2",apiKey:"bfc6f412-24b0-4c32-94cc-942c0eefce03",assetURL:"",i18n:{baseUrl:"",defaultLocale:"en",defaultDirection:"ltr",strategy:"prefix_except_default",lazy:false,rootRedirect:"",routesNameSeparator:"___",defaultLocaleRouteNameSuffix:"default",skipSettingLocaleOnNavigate:false,differentDomains:false,trailingSlash:false,configLocales:[{name:"English",code:"en",files:["/var/www/dialer_front/locales/en.json"]},{name:"Amharic",code:"am",files:["/var/www/dialer_front/locales/am.json"]},{name:"Affan Oromo",code:"or",files:["/var/www/dialer_front/locales/or.json"]}],locales:{en:{domain:""},am:{domain:""},or:{domain:""}},detectBrowserLanguage:{alwaysRedirect:false,cookieCrossOrigin:false,cookieDomain:"",cookieKey:"i18n_redirected",cookieSecure:false,fallbackLocale:"",redirectOn:"root",useCookie:true},experimental:{localeDetector:"",switchLocalePathLinkSSR:false,autoImportTranslationFunctions:false},multiDomainLocales:false}},app:{baseURL:"/",buildId:"e4512327-44c3-4a44-b1bb-304c83240924",buildAssetsDir:"/_nuxt/",cdnURL:""}}</script></body></html>
